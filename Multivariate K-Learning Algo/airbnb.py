@@ -49,7 +49,6 @@ two_features_rmse = np.sqrt(two_features_mse)
 #print(two_features_mse, two_features_rmse)
 
 features = ['accommodates', 'bedrooms', 'bathrooms', 'number_of_reviews']
-from sklearn.neighbors import KNeighborsRegressor
 
 knn = KNeighborsRegressor(n_neighbors=5, algorithm='brute')
 
