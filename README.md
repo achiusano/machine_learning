@@ -1,3 +1,3 @@
-# Data Science Projects
+# Data Science Projects and Exercises
 
-This is my tracked progress of Machine Learning exercises and Data Science projects from DataQuest.
+This is my tracked progress of Data Science projects/exercises from DataQuest.
