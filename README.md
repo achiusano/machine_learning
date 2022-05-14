@@ -4,3 +4,5 @@ This repository is for practicing Machine Learning projects and exercises, rangi
 * https://www.deeplearningbook.org/
 * http://neuralnetworksanddeeplearning.com/
 * https://www.sas.com/en_us/insights/analytics/machine-learning.html
+* https://dataquest.io
+* https://www.tensorflow.org/
