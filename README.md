@@ -1,4 +1,4 @@
-# Machine Learning & Deep Learning Practice
+# Machine Learning Practice
 This repository is for practicing Machine Learning projects and exercises, ranging from beginner levels to more advanced.
 ## Some helpful resources used
 * https://www.deeplearningbook.org/
